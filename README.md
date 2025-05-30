@@ -37,3 +37,6 @@ Frontend (bank-frontend):</br>
 Dashboard page to view and manage accounts.</br>
 Create account page for adding new accounts.</br>
 Navigation bar with links and theme toggle.</br>
+
+
+![Image](https://github.com/user-attachments/assets/75d6b4da-ac67-49f2-af24-162fcf49c795)
