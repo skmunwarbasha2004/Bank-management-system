@@ -1,7 +1,13 @@
 # Bank-management-system
 
 Overview
-The Bank Management Application is a full-stack web application designed to simulate basic banking operations. It allows users to create bank accounts, deposit and withdraw money, and delete accounts. The app features a modern React frontend with Material-UI for a polished user interface and a Spring Boot backend connected to a MySQL database for data persistence. This project is a learning exercise to explore full-stack development and REST APIs.
+The Bank Management Application is a full-stack web application designed to simulate basic banking operations. 
+
+It allows users to create bank accounts, deposit and withdraw money, and delete accounts. 
+
+The app features a modern React frontend with Material-UI for a polished user interface and a Spring Boot backend connected to a MySQL database for data persistence. 
+
+This project is a learning exercise to explore full-stack development and REST APIs. 
 
 Features
 Account Management:
